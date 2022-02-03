@@ -1,0 +1,48 @@
+body {
+    padding: 100px;
+}
+
+.pioneer-area h2 {
+    padding-bottom: 40px;
+}
+
+.login-area {
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+}
+
+#transaction-area {
+    display: none;
+}
+
+.deposit {
+    background-color: green;
+    color: white;
+}
+
+.withdraw {
+    background-color: hotpink;
+    color: white;
+}
+
+.balance {
+    background-color: indigo;
+    color: white;
+}
+
+.status {
+    padding: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.trans-box {
+    padding-top: 100px;
+}
+
+.box-area {
+    box-shadow: 5px 5px 10px gray;
+    margin-left: 30px;
+    padding: 30px;
+    border-radius: 8px;
+}
